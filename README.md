@@ -14,7 +14,7 @@
 . Tpot outo_ml
 . Votting outo_ml
 . Pycart outo_ml
-I have used many tools including: 
+# I have used many tools including: 
 . Numpy
 . Pandas
 . Matpltlib
